@@ -1,0 +1,33 @@
+body {
+  background: #FCF3CF;
+}
+
+table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 30%;
+}
+
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+}
+    
+tr:nth-child(even) {
+     background-color: #dddddd;
+    }
+
+div{
+  font-family: 'Alegreya', serif;
+}
+
+h1{
+  font-family: 'Alegreya', serif;
+  font-variant: small-caps;
+}
+
+img{
+  margin: 5px 5px 5px 5px;
+  width: 500;
+}
