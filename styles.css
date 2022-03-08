@@ -18,22 +18,18 @@ td, th {
     width: 250px;
 }
     
-tr:nth-child(even) {
-     background-color: #dddddd;
-    }
-
 div{
-  font-family: 'Alegreya', serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1{
-  font-family: 'Alegreya', serif;
+  font-family: 'Poppins', sans-serif;
   font-variant: small-caps;
-  text-align: center;
+  
 }
 
 h2{
-  font-family: 'Alegreya', serif;
+  font-family: 'Poppins', sans-serif;
   font-variant: normal;
   font-size: smaller;
   color: #E59866;
@@ -41,11 +37,12 @@ h2{
 
 img{
   margin: 5px 5px 5px 5px;
-  width: 500;
+  width: 600;
 }
 
 p{
   margin: 5px 5px 5px 5px;
+  font-variant: normal;
 }
 
 .th1{
