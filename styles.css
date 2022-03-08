@@ -3,14 +3,19 @@ body {
 }
 
 table {
-      border-collapse: separate;
-      width: 50%;
+  border-collapse: separate;
+  width: 100%;
 }
 
+.table1{
+  border-collapse: separate;
+  width: 70%;
+}
 td, th {
     border: 2px solid #dddddd;
     text-align: left;
     padding: 10px;
+    width: 250px;
 }
     
 tr:nth-child(even) {
@@ -43,3 +48,18 @@ p{
   margin: 5px 5px 5px 5px;
 }
 
+.th1{
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+  width: 30%;
+  background-color: white;
+}
+
+.th2{
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+  width: 70%;
+  background-color: white;
+}
