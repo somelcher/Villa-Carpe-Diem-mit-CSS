@@ -3,9 +3,8 @@ body {
 }
 
 table {
-      font-family: arial, sans-serif;
-      border-collapse: collapse;
-      width: 30%;
+      border-collapse: separate;
+      width: 50%;
 }
 
 td, th {
@@ -28,7 +27,19 @@ h1{
   text-align: center;
 }
 
+h2{
+  font-family: 'Alegreya', serif;
+  font-variant: normal;
+  font-size: smaller;
+  color: #E59866;
+}
+
 img{
   margin: 5px 5px 5px 5px;
   width: 500;
 }
+
+p{
+  margin: 5px 5px 5px 5px;
+}
+
