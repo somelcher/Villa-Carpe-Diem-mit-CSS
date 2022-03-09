@@ -12,7 +12,7 @@ table {
   width: 70%;
 }
 td, th {
-    border: 2px solid #dddddd;
+    border: 2px solid #99A3A4;
     text-align: left;
     padding: 10px;
     width: 250px;
@@ -46,7 +46,7 @@ p{
 }
 
 .th1{
-  border: 2px solid #dddddd;
+  border: 2px solid #99A3A4;
   text-align: left;
   padding: 10px;
   width: 30%;
@@ -54,12 +54,20 @@ p{
 }
 
 .th2{
-  border: 2px solid #dddddd;
+  border: 2px solid #99A3A4;
   text-align: left;
   padding: 10px;
   width: 70%;
   background-color: white;
 }
+
+/*.th3{
+  border: 2px solid #99A3A4;
+  text-align: left;
+  padding: 10px;
+  width: 250px;
+  color: #515A5A;
+}*/
 
 div.relative {
   position: relative;
@@ -69,4 +77,8 @@ div.relative {
 div.absolute {
   position: absolute;
   top: 130px;
+}
+
+a{
+  color: #515A5A;
 }
